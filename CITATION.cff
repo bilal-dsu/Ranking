@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Butt"
+  given-names: "Bilal"
+  orcid: "https://orcid.org/0000-0002-3063-1861"
+- family-names: "Iftikhar"
+  given-names: "Aashir"
+- family-names: "Ahmed"
+  given-names: "Maaz"
+- family-names: "Mustafa"
+  given-names: "Faran"
+
+title: "Ranking of articles using open-access citation-metadata"
+version: 1.0.1
+doi: 10.5281/zenodo.
+date-released: 2021-10-08
+url: "https://github.com/bilal-dsu/Ranking"
