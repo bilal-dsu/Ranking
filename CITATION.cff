@@ -10,7 +10,6 @@ authors:
   given-names: "Maaz"
 - family-names: "Mustafa"
   given-names: "Faran"
-
 title: "Ranking of articles using open-access citation-metadata"
 version: 1.0.1
 doi: 10.5281/zenodo.
